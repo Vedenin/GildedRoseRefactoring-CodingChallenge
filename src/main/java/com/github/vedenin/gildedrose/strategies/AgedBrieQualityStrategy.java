@@ -1,4 +1,4 @@
-package de.storecast.gildedrose.strategies;
+package com.github.vedenin.gildedrose.strategies;
 
 /**
  * "Aged Brie" actually increases in Quality the older it gets

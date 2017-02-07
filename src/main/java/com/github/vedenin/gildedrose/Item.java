@@ -1,4 +1,4 @@
-package de.storecast.gildedrose;
+package com.github.vedenin.gildedrose;
 
 public class Item {
 

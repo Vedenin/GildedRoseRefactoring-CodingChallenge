@@ -1,6 +1,6 @@
-package de.storecast.gildedrose.factories;
+package com.github.vedenin.gildedrose.factories;
 
-import de.storecast.gildedrose.strategies.QualityStrategy;
+import com.github.vedenin.gildedrose.strategies.QualityStrategy;
 
 /**
  * pattern Factory

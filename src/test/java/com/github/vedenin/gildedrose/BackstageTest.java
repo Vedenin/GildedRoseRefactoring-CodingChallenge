@@ -1,6 +1,6 @@
-package de.storecast.gildedrose;
+package com.github.vedenin.gildedrose;
 
-import de.storecast.gildedrose.oldversion.GildedRoseOld;
+import com.github.vedenin.gildedrose.oldversion.GildedRoseOld;
 import org.junit.Assert;
 import org.junit.Test;
 

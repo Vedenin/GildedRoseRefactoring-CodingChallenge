@@ -1,4 +1,4 @@
-package de.storecast.gildedrose.strategies;
+package com.github.vedenin.gildedrose.strategies;
 
 /**
  * "Backstage passes", like aged brie, increases in Quality as its SellIn value approaches;

@@ -1,14 +1,12 @@
-package de.storecast.gildedrose;
+package com.github.vedenin.gildedrose;
 
-import de.storecast.gildedrose.factories.QualityStrategyFactory;
-import de.storecast.gildedrose.strategies.QualityStrategy;
-import de.storecast.gildedrose.factories.DefaultQualityStrategyFactory;
+import com.github.vedenin.gildedrose.factories.DefaultQualityStrategyFactory;
+import com.github.vedenin.gildedrose.strategies.QualityStrategy;
+import com.github.vedenin.gildedrose.factories.QualityStrategyFactory;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
-
-import static de.storecast.gildedrose.Constants.SULFURAS;
 
 class GildedRose implements GildedRoseInterface {
     private final List<Item> items;
@@ -31,7 +29,7 @@ class GildedRose implements GildedRoseInterface {
      */
     public void updateQuality() {
         items.stream()
-                .filter(item -> !Objects.equals(item.name, SULFURAS))
+                .filter(item -> !Objects.equals(item.name, Constants.SULFURAS))
                 .forEach(item -> updateItemQuality(item, factory)
         );
     }
