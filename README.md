@@ -1,6 +1,6 @@
 # Refactoring-CodingChallenge
 
-This is refactoring coding challenge that I developed for one company to show you my coding and design skills.:
+This is refactoring coding challenge that I developed to show you my coding and design skills, for example:
 
 1. [Uncle bob Clean Code principals](https://github.com/Vedenin/Refactoring-CodingChallenge/tree/master/src/main/java/com/github/vedenin/gildedrose),
 2. [Junit skill](https://github.com/Vedenin/Refactoring-CodingChallenge/tree/master/src/test/java/com/github/vedenin/gildedrose),
