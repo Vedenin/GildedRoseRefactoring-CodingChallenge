@@ -1,9 +1,8 @@
 # Refactoring-CodingChallenge
 
-This is refactoring coding challenge that I developed for one company. 
-That shows you my coding and design skills:
+This is refactoring coding challenge that I developed for one company to show you my coding and design skills.:
 
-1. Uncle bob Clean Code principals,
+1. [Uncle bob Clean Code principals](https://github.com/Vedenin/Refactoring-CodingChallenge/tree/master/src/main/java/com/github/vedenin/gildedrose),
 2. [Junit skill](https://github.com/Vedenin/Refactoring-CodingChallenge/tree/master/src/test/java/com/github/vedenin/gildedrose),
 3. [Unit test skill](https://github.com/Vedenin/Refactoring-CodingChallenge/tree/master/src/test/java/com/github/vedenin/gildedrose),
 4. [Pattern Strategy](https://github.com/Vedenin/Refactoring-CodingChallenge/tree/master/src/main/java/com/github/vedenin/gildedrose/strategies),
@@ -15,7 +14,7 @@ That shows you my coding and design skills:
 
 ## Coding Challenge Requirements
 
-Refactoring [old version of system](https://github.com/Vedenin/Refactoring-CodingChallenge/blob/master/src/main/java/com/github/vedenin/gildedrose/oldversion/GildedRoseOld.java) and add new functionality accroding requirements below. For more info [see](https://github.com/NotMyself/GildedRose)
+Refactoring [old version of system](https://github.com/Vedenin/Refactoring-CodingChallenge/blob/master/src/main/java/com/github/vedenin/gildedrose/oldversion/GildedRoseOld.java) and add new functionality, accroding requirements below. For more info [see](https://github.com/NotMyself/GildedRose)
 
 
 ======================================
